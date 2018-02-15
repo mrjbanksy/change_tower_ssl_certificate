@@ -1,0 +1,5 @@
+---
+tower_cert_directory: /etc/tower/
+tower_cert_name: tower.cert
+tower_key_name: tower.key
+...
